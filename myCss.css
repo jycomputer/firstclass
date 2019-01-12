@@ -1,0 +1,22 @@
+h1,
+h2 {
+    color: green
+}
+
+.myClass {
+    color: blueviolet;
+}
+
+.myClass2 {
+    text-align: center;
+}
+
+#myID {
+    color: brown;
+    font-size: 30px;
+}
+
+#myID2 {
+    color: brown;
+    font-size: 30px;
+}
